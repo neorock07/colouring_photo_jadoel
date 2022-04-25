@@ -1,0 +1,19 @@
+
+.body{
+	min-height: 2000px;
+}
+.jumbotron{
+	padding-top: 2rem;
+	background-color:#2E2B2B;
+}
+.img_profil{
+	border-radius: 100px;
+}
+.lead{
+	color: #FAFAFA;
+}
+.garis{
+	width: 65px;
+	padding:2px;
+	color: #000000;
+}
